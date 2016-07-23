@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <h1>A heading</h1>
+        <h2>A sub-heading</h2>
+        <em>text</em>
+        <title>gks blog</title>
+    </head>
+    <p>Hi there!</p>
+    <em>text</em>
+    <p>It works!</p>
+    <strong>text</strong>
+</html>
