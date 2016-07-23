@@ -9,4 +9,8 @@
     <em>text</em>
     <p>It works!</p>
     <strong>text</strong>
+    <ul><li>first item</li><li>second item</li></ul>
+{% for post in posts %}
+    {{ post }}
+{% endfor %}
 </html>
